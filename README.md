@@ -1,2 +1,1 @@
-# odin-landing-page
-For ITE 18 - Odin Activity 2
+#2nd Odin Foundation Project - Landing Page
