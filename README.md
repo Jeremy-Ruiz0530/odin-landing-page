@@ -1,1 +1,1 @@
-#2nd Odin Foundation Project - Landing Page
+# 2nd Odin Foundation Project - Landing Page
